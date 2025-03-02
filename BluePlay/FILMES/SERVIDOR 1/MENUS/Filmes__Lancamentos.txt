@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Uma e Haggen: Mitos" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/dx6yS2Q8XYNNeq7ub4cAGSk8kJ9.jpg" group-title="Filmes | Lancamentos",Uma e Haggen: Mitos
 http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10327089.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Operação de Risco" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/jc9EMUNJaQHXDJVfHxKjuvfiWrB.jpg" group-title="Filmes | Lancamentos",Operação de Risco
