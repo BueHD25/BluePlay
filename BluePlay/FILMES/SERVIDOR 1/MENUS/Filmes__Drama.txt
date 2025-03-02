@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Somos Marshall" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/Qf0jXym7ayEfkUHK4aMffALj2a.jpg" group-title="Filmes | Drama",Somos Marshall
 http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10323458.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cidades de Papel" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/4th6QFCdko42nuAVK9yu2d9ikFQ.jpg" group-title="Filmes | Drama",Cidades de Papel

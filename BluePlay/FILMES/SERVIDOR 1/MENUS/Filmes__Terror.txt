@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="O Anel Amaldiçoado" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/7HKgVo8jBISdqxtn4h9CnEgFrKh.jpg" group-title="Filmes | Terror",O Anel Amaldiçoado
 http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10325852.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Errementari: O Ferreiro e o Diabo" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/bedYbbNKNbQFWWJ2lHTC1rSXFUy.jpg" group-title="Filmes | Terror",Errementari: O Ferreiro e o Diabo

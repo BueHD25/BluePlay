@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Em Seus Passos, O Que Faria Jesus?" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/mJfcvlF8B1bOYu7T0yDgoLL1HX3.jpg" group-title="Filmes | Família",Em Seus Passos, O Que Faria Jesus?
 http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10316489.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Paparazzi Animal" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/7yeHtZDBVD6DiMQYSb2OJIPKQLM.jpg" group-title="Filmes | Família",Um Paparazzi Animal

@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="999999999999999" tvg-logo="https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-38-picture-grey-c2ebdbb057f2a7614185931650f8cee23fa137b93812ccb132b9df511df1cfac.svg" group-title="Filmes | Religiosos",999999999999999
 http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10317292.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Criação" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/bk68yiDGr4saE6ICqdBWvt48CmG.jpg" group-title="Filmes | Religiosos",A Criação

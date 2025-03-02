@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Os Mortos Não Matam" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/wp6lFPLMZe907iDvIYAfCBg3RFh.jpg" group-title="Filmes | Faroeste",Os Mortos Não Matam
 http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10316571.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Estranha Forma de Vida" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/tr8LOwkfUHx2W6SB9NPoU7vi4XB.jpg" group-title="Filmes | Faroeste",Estranha Forma de Vida

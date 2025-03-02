@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Ataque Terrorista" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/uvDTyyRpM8MenTBZwtBnn93VSoh.jpg" group-title="Filmes | Acao",Ataque Terrorista
 http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10319748.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rastro Mortal" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/xXAAjwA6xlYx8GwaMu1qRHDjt9n.jpg" group-title="Filmes | Acao",Rastro Mortal

@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Wallace & Gromit - Avengança" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/lD6b0UkdviQw9N3LpSDqAOQKu8i.jpg" group-title="Filmes | Animacao",Wallace & Gromit - Avengança
 http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10317393.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Menino e o Mestre" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/238wu3QBbHxWiXkn3BmOrBesnwW.jpg" group-title="Filmes | Animacao",O Menino e o Mestre

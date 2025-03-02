@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Meu Filho" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/43xNnRmhkVQ3YhWiz6yX7gCGpfM.jpg" group-title="Filmes | Suspense",Meu Filho
 http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10318577.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Assassinato no Expresso do Oriente" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/quZnHOVKVbFR7IdXBI9J0ONb7Jk.jpg" group-title="Filmes | Suspense",Assassinato no Expresso do Oriente

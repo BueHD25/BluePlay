@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Violet no Mundo da Fantasia" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zlLtqutoe2IHHBwzl4hykLr9o2A.jpg" group-title="Filmes | Fantasia",Violet no Mundo da Fantasia
 http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10318202.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wicked" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/3p4lA8bzyUZvjHcI1qWmasgbEo8.jpg" group-title="Filmes | Fantasia",Wicked

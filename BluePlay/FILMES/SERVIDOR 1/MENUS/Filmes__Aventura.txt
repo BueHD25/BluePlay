@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Foxter & Max: Um Cachorro de Outro Mundo" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zmJNzjmWGwqKCNdUZ81mu53HtRg.jpg" group-title="Filmes | Aventura",Foxter & Max: Um Cachorro de Outro Mundo
 http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10316682.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Mundo Encantado" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/r3RRu2joBRWoKh5Qb4vdLuBpcPm.jpg" group-title="Filmes | Aventura",Um Mundo Encantado

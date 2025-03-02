@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Uma Razão para Viver" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/wadLTGQDiHCPndo6rPHKWCpUZql.jpg" group-title="Filmes | Romance",Uma Razão para Viver
 http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10316741.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Os Escritos Secretos" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/nSCS70pAmx55ViQvvzokWdzUzBi.jpg" group-title="Filmes | Romance",Os Escritos Secretos

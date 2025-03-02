@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Loop Infinito" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/hXXKlr7GZnPG6yr1QraAMGyhsQG.jpg" group-title="Filmes | Ficcao",Loop Infinito
 http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10316026.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Venom: A Última Rodada" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/fTGJWXuFDcRSIVPgQLbxziGquOC.jpg" group-title="Filmes | Ficcao",Venom: A Última Rodada

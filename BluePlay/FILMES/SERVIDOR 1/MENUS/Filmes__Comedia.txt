@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Um Sonho Chamado Fred" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/ucQEdBDoOHis0u0pgLKkmunS8Gf.jpg" group-title="Filmes | Comedia",Um Sonho Chamado Fred
 http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10321484.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Não Sei o Que Fizemos na Noite Passada" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/pJBhU5idnpKSmpm6KdFAliMdZiN.jpg" group-title="Filmes | Comedia",Não Sei o Que Fizemos na Noite Passada
