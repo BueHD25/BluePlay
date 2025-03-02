@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+    <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
+        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/CANAIS%20AO%20VIVO.png</thumbnail>
+        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+        <info>Explore um vasto catálogo de filmes com os melhores lançamentos, clássicos inesquecíveis e produções de diversos gêneros. Encontre desde ação eletrizante até dramas emocionantes, tudo organizado para facilitar sua navegação. Escolha seu filme favorito e aproveite!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>https://github.com/BluePlayHD/BluePlay/raw/refs/heads/main/BluePlay/TV%20AO%20VIVO/Menu_TV.xml</externallink>
+    </channel>
+    
+    <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
+        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
+        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+        <info>Mergulhe no mundo do cinema com uma vasta seleção de filmes para todos os gostos. Descubra lançamentos recentes, grandes clássicos e filmes premiados, organizados por gênero, popularidade e ano de lançamento. Não importa o seu estilo, temos o filme perfeito esperando por você
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/filmes_channels.xml</externallink>
+    </channel>
+
+    <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]</name>
+        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+        <info>Explore uma seleção de séries envolventes, com histórias que vão te prender do começo ao fim. De comédias leves a tramas intensas, temos séries imperdíveis para todos os gostos. Navegue e encontre sua próxima maratona!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/S%C3%89RIES_MENU.xml</externallink>
+    </channel>
+
+
+<channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]RÁDIO[/COLOR][/B]</name>
+        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/R%C3%81DIO.png</thumbnail>
+        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+        <info>Sintonize em uma variedade de estações de rádio, com músicas, notícias, podcasts e muito mais. De hits atuais a clássicos, encontre a estação perfeita para o seu humor e curta sua programação favorita a qualquer hora!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/R%C3%81DIO/Menu_Radio.xml</externallink>
+    </channel>
+
+
+    <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS[/COLOR][/B]</name>
+        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/DESENHOS.png</thumbnail>
+        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+        <info>Entre no universo dos desenhos animados com uma seleção para todas as idades. De aventuras divertidas a histórias encantadoras, encontre seus desenhos favoritos e curta a magia da animação a qualquer momento!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/DESENHOS/DESENHOS.xml</externallink>
+    </channel>
+
+<channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]</name>
+        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/ANIMES.png</thumbnail>
+        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+        <info>Explore um mundo de animes com diversas opções, desde aventuras cheias de ação até enredos emocionantes e profundos. De títulos populares a clássicos, encontre o anime perfeito para você e embarque em uma jornada única!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/ANIMES/Menu_animes.xml</externallink>
+    </channel>
+
+<channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]TOKUSATSU[/COLOR][/B]</name>
+        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/TOKUSATSU.png</thumbnail>
+        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+        <info>Entre no mundo dos heróis e batalhas épicas com uma seleção de Tokusatsu imperdível! De clássicos nostálgicos a produções mais recentes, reviva as aventuras cheias de ação, efeitos especiais e muita emoção.
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>https://github.com/AnimeSoul8585/Reposit-rio-AnimeSoul/raw/refs/heads/main/Pesquisar.xml</externallink>
+    </channel>
+
+    <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]NOVELAS[/COLOR][/B]</name>
+        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/NOVELAS.png</thumbnail>
+        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+        <info>Reviva as tramas emocionantes das novelas, com histórias de amor, drama e reviravoltas imperdíveis. Explore uma seleção de novelas clássicas e atuais, e acompanhe os capítulos que marcaram gerações.
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/BlackPlay%20Tv/NOVELAS/NOVELA.xml</externallink>
+    </channel>
+
+<channel>
+        <name>[B][COLOR yellow]●[/COLOR] [COLOR white]DOAÇÃO[/COLOR][/B]</name>
+        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/DOA%C3%87%C3%83O.png</thumbnail>
+        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+        <info>Ajude a manter o BluePlay sempre atualizado e funcionando! Nosso objetivo é oferecer a melhor experiência possível, trazendo novos conteúdos e melhorias constantes. Sua doação é fundamental para que possamos continuar aprimorando o serviço, garantindo qualidade e estabilidade. Se você gosta do BluePlay e quer apoiar o projeto, contribua com qualquer valor. Toda ajuda é bem-vinda e faz a diferença!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>plugin://plugin.video.gdrive?mode=streamURL&url=https://drive.google.com/uc?export=download&id=1JRelLuUZx_4MmD_8uPO7fBfTYQvwlT-_</externallink>
+    </channel>
+
+</channels>
