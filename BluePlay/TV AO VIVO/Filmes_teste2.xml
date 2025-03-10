@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
 <channel>
     <name>[B][COLOR aquamarine]FILMES[/COLOR] [COLOR white]| ADICIONADOS RECENTEMENTE [/COLOR][/B]</name>
     <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
@@ -45,3 +47,4 @@
     <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/COLECOES.xml</externallink>
     <info>Confira coleções completas de filmes, com sagas e franquias reunidas em um só lugar para você maratonar sem interrupções.</info>
 </channel>
+</channels>
