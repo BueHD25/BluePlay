@@ -2,17 +2,14 @@
 <items>
     <item>
         <title>ANIME</title>
-        <link>$doregex[resolver]</link>
+        <link>https://animesonline.club/stream/video.mp4</link>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Animation</genre>
         <info>Anime teste</info>
-        <rating>8.5</rating>
-        <date>08.02.2022</date>
+        <director>Diretor Exemplo</director>
+        <studio>Estúdio Exemplo</studio>
+        <year>2022</year>
+        <rating>8.5</rating> <!-- Nota -->
         <fanart>http://fanart.jpg</fanart>
-        <regex>
-            <name>resolver</name>
-            <expres>"stream":.+?"(.*?)"</expres>
-            <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fanimesonline.club%2Fanime%2Fyu-gi-oh-sevens%2Fepisodio%2F68825</page>
-        </regex>
     </item>
 </items>
