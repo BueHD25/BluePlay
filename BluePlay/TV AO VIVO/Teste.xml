@@ -1,10 +1,18 @@
-
-<channels>
-<channel>
-<title>[COLOR silver][B] CARCAÇA [/COLOR][/B]</title> 
-<link>https://github.com/BluePlay8486/BluePlay/raw/refs/heads/main/BluePlay/TV%20AO%20VIVO/Teste.xml</link> 
-<thumbnail>https://media.themoviedb.org/t/p/original/kAZAt4qEOeBsprW0QwrArqe417W.jpg</thumbnail> 
-<fanart></fanart> 
-<info></info>
-</channel>
-</channels>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+    <item>
+        <title>ANIME</title>
+        <link>$doregex[resolver]</link>
+        <thumbnail>http://channel.png</thumbnail>
+        <genre>Animation</genre>
+        <info>Anime teste</info>
+        <rating>8.5</rating>
+        <date>08.02.2022</date>
+        <fanart>http://fanart.jpg</fanart>
+        <regex>
+            <name>resolver</name>
+            <expres>"stream":.+?"(.*?)"</expres>
+            <page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fanimesonline.club%2Fanime%2Fyu-gi-oh-sevens%2Fepisodio%2F68825</page>
+        </regex>
+    </item>
+</items>
