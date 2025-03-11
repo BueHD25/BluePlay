@@ -4,12 +4,14 @@
         <title>ANIME</title>
         <link>https://animesonline.club/stream/video.mp4</link>
         <thumbnail>http://channel.png</thumbnail>
-        <genre>Animation</genre>
-        <info>Anime teste</info>
-        <director>Diretor Exemplo</director>
-        <studio>Estúdio Exemplo</studio>
-        <year>2022</year>
-        <rating>8.5</rating> <!-- Nota -->
         <fanart>http://fanart.jpg</fanart>
+        <info>
+            <genre>Animation</genre>
+            <plot>Anime teste</plot>
+            <director>Diretor Exemplo</director>
+            <studio>Estúdio Exemplo</studio>
+            <year>2022</year>
+            <rating>8.5</rating>
+        </info>
     </item>
 </items>
