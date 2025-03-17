@@ -35,10 +35,10 @@
 
     <channel>
         <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] RUNTIME[/COLOR][/B]</name>
-        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/Portugal.icon.png</thumbnail>
-        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.Portugal.png</fanart>
+        <thumbnail>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/images%20(13).jpeg</thumbnail>
+        <fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/images%20(12).jpeg</fanart>
         <info>Canais de RUNTIME Aproveite</info>
-        <externallink></externallink>
+        <externallink>https://github.com/BluePlay8486/BluePlay/raw/refs/heads/main/BluePlay/TV%20AO%20VIVO/RUNTIME/RUNTIME.xml</externallink>
     </channel>
 
     </channels>
