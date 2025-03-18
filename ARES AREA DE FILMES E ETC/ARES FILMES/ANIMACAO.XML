@@ -93,7 +93,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Maximiliano Kolbe e Eu[/COLOR][/B] [COLOR yellow](Nota: 5.6)[/COLOR]</title>
+<title>[B][COLOR white]Maximiliano Kolbe e Eu[/COLOR][/B] [COLOR yellow](Nota: 5.6)</COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb41e4dd660bb1c52e3ae1991f204ef7eaf8b333</link>
 <thumbnail>https://image.tmdb.org/t/p/original/mdhZDcTLhhnmPHvDvM5PRdnGzyu.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/em2NrrAltls4QVsMeVHcejbQfXf.jpg</fanart>
@@ -111,7 +111,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]The Witcher: Sereias das Profundezas[/COLOR][/B] [COLOR yellow](Nota: 3.2/5)[/COLOR]</title>
+<title>[B][COLOR white]The Witcher: Sereias das Profundezas[/COLOR][/B] [COLOR yellow](Nota: 3.2/5)</COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76c749ea86f4a81a1998a6d36d9d1f420c1389ee</link>
 <thumbnail>https://image.tmdb.org/t/p/original/ob2oIUL1gV4pNg7s9oGjNBSI2iF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/1YL8ksfwm3p2Tgt1yaNVYYOvOKC.jpg</fanart>
@@ -129,7 +129,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Peça por Peça: Uma História de Pharrell Williams[/COLOR][/B] [COLOR yellow](Nota: 2.5/5)[/COLOR]</title>
+<title>[B][COLOR white]Peça por Peça: Uma História de Pharrell Williams[/COLOR][/B] [COLOR yellow](Nota: 2.5/5)</COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6a2cd861b2360f0e9481b7925bdb48f26184109</link>
 <thumbnail>https://image.tmdb.org/t/p/original/qVyWW9HhYXui6SjF4cTDUPDYCIz.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/oqWTbBixgF8XwqzGeFWMzkNwqAw.jpg</fanart>
@@ -143,6 +143,96 @@
 [COLOR yellow]Áudio:[/COLOR] Português / Inglês
 [COLOR yellow]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL
 [COLOR yellow]Sinopse:[/COLOR] Uma jornada vibrante pela vida do ícone cultural Pharrell Williams, contada através das lentes de animação LEGO.
+</info>
+</item>
+
+<item>
+<title>[B][COLOR white]Miraculous World: Londres, a Corrida Contra o Tempo (Nota: 8/10)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C2A81CF4B48AD5060EA47AB260F59F754ADFBF6F</link>
+<thumbnail>https://image.tmdb.org/t/p/original/l9YoPPpIiVBHjoNxIeaMSgqJ8iO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cBTwQKMd7Vn6rGTGBtoFLIfj7uM.jpg</fanart>
+<info>
+[COLOR yellow]Título Original:[/COLOR] Miraculous World: Londres, a Corrida Contra o Tempo
+[COLOR yellow]Diretor:[/COLOR] Thomas Astruc
+[COLOR yellow]Ano:[/COLOR] 2024
+[COLOR yellow]Duração:[/COLOR] 47 min
+[COLOR yellow]Nota IMDb:[/COLOR] 8/10
+[COLOR yellow]Gênero:[/COLOR] Animação, Aventura, Família
+[COLOR yellow]Áudio:[/COLOR] Francês (França), Inglês (Reino Unido)
+[COLOR yellow]Classificação Indicativa:[/COLOR] Livre
+[COLOR yellow]Sinopse:[/COLOR] Para salvar o futuro, Marinette, agora Chronobug, precisa forjar uma união com Bunnyx para resolver o mistério de quem descobriu a identidade secreta de Ladybug.
+</info>
+</item>
+
+<item>
+<title>[B][COLOR white]Sonic 3 - O Filme (Nota: 4.4/5)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72B1E0970A99F4053A010AD66D86A136E3C66547</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tfM1T6tAivjvy0sLwt6Y9WvlmzB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg</fanart>
+<info>
+[COLOR yellow]Título Original:[/COLOR] Sonic the Hedgehog 3
+[COLOR yellow]Diretor:[/COLOR] Jeff Fowler
+[COLOR yellow]Ano:[/COLOR] 2024
+[COLOR yellow]Duração:[/COLOR] 1h 49m
+[COLOR yellow]Nota IMDb:[/COLOR] 4.4/5
+[COLOR yellow]Gênero:[/COLOR] Aventura, Animação
+[COLOR yellow]Áudio:[/COLOR] Português
+[COLOR yellow]Classificação Indicativa:[/COLOR] Não recomendado para menores de 10 anos
+[COLOR yellow]Sinopse:[/COLOR] Sonic, Knuckles e Tails devem proteger a Esmeralda Mestra de novas ameaças, incluindo a misteriosa G.U.N., em uma aventura cheia de ação e emoção.
+</info>
+</item>
+
+<item>
+<title>[B][COLOR white]Watchmen Chapter II (Nota: 4.8/5)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AF20A219180489994B87433A6530AADC07DC2D71</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rvSEowY2XE0Gb06FBEwQng2M6KX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dGGjuaUR253aAZ2Zhto2Y9TR9l6.jpg</fanart>
+<info>
+[COLOR yellow]Título Original:[/COLOR] Watchmen Chapter II
+[COLOR yellow]Diretor:[/COLOR] Zack Snyder
+[COLOR yellow]Ano:[/COLOR] 2024
+[COLOR yellow]Duração:[/COLOR] 2h 43m
+[COLOR yellow]Nota IMDb:[/COLOR] 4.8/5
+[COLOR yellow]Gênero:[/COLOR] Ação, Ficção Científica
+[COLOR yellow]Áudio:[/COLOR] Português
+[COLOR yellow]Classificação Indicativa:[/COLOR] Não recomendado para menores de 16 anos
+[COLOR yellow]Sinopse:[/COLOR] Em uma realidade alternativa, os super-heróis foram desmascarados e estão sendo perseguidos. Em meio ao caos, Rorschach investiga uma conspiração que pode destruir a humanidade.
+</info>
+</item>
+
+<item>
+<title>[B][COLOR white]Master Kid: O Despertar de um Herói (Nota: 5.2)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:601db97c4edf1761c12b2c859d3e7d667e159c00</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pxl3gQG1BebbA8GhcJXAvwuipgj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gL84vj83XtuNeVBsKe6345109Zg.jpg</fanart>
+<info>
+[COLOR yellow]Título Original:[/COLOR] Master Kid: O Despertar de um Herói
+[COLOR yellow]Diretor:[/COLOR] Michael Franco
+[COLOR yellow]Ano:[/COLOR] 2021
+[COLOR yellow]Duração:[/COLOR] 1h 47m
+[COLOR yellow]Nota:[/COLOR] 5.2
+[COLOR yellow]Gênero:[/COLOR] Ação, Aventura
+[COLOR yellow]Áudio:[/COLOR] Português / Inglês
+[COLOR yellow]Classificação Indicativa:[/COLOR] Não recomendado para menores de 12 anos
+[COLOR yellow]Sinopse:[/COLOR] Um jovem com habilidades extraordinárias se vê diante de uma jornada épica para descobrir sua verdadeira origem, enfrentando desafios enquanto tenta dominar seus poderes e se tornar o herói que o mundo precisa.
+</info>
+</item>
+
+<item>
+<title>[B][COLOR white]Crazy Racing [COLOR yellow](Nota: 3.8)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e2a7a38e664fa7848a71abc0cca14f05a054a1e</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i99kjvBWWwH1qtUDt3TBIFz6gAz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zw9F05fhLKMwDvD2PmKLpQAYA0k.jpg</fanart>
+<info>
+[COLOR yellow]Título Original:[/COLOR] Crazy Racing
+[COLOR yellow]Diretor:[/COLOR] Não disponível
+[COLOR yellow]Ano:[/COLOR] 2021
+[COLOR yellow]Duração:[/COLOR] 90 minutos
+[COLOR yellow]Nota:[/COLOR] 3.8
+[COLOR yellow]Gênero:[/COLOR] Animação, Aventura, Comédia
+[COLOR yellow]Áudio:[/COLOR] Português / Inglês
+[COLOR yellow]Classificação Indicativa:[/COLOR] Não disponível
+[COLOR yellow]Sinopse:[/COLOR] No mundo das corridas, um novo competidor aparece com a habilidade de virar o jogo, mas enfrentando desafios inesperados.
 </info>
 </item>
 
