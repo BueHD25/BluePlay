@@ -3,29 +3,29 @@
 <items>
 
 <item>
-    <title>[B][COLOR white]Dalia e o Livro Vermelho[/COLOR][/B] - [COLOR yellow]Nota: 6.8[/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8238ACD5B7340756716E3AB9A328F967B6FDD91F</link>
-    <thumbnail>https://media.themoviedb.org/t/p/w188_and_h282_bestv2/4LCpqQxa95g9VniypAuGC6jbHaB.jpg</thumbnail>
-    <fanart>https://media.themoviedb.org/t/p/w500_and_h282_face/585hAEHBMNqyCt3pswF5MjImBrR.jpg</fanart>
-    <info>
-[COLOR yellow]Título Original:[/COLOR] Dalia e o Livro Vermelho
-[COLOR yellow]Dirigido por:[/COLOR] Akira Kamiki
-[COLOR yellow]Ano:[/COLOR] 2024
-[COLOR yellow]Duração:[/COLOR] 1h 34m
-[COLOR yellow]Nota:[/COLOR] 6.8
-[COLOR yellow]Gênero:[/COLOR] Drama / Fantasia / Família
-[COLOR yellow]Áudio:[/COLOR] Português
-[COLOR yellow]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL
-[COLOR yellow]Sinopse:[/COLOR] Dalia é uma jovem determinada que encontra um livro misterioso capaz de dar vida à imaginação. À medida que o mundo ao seu redor muda, ela precisa enfrentar seus próprios medos para salvar a realidade.
-    </info>
+<title>[B][COLOR white]Dalia e o Livro Vermelho[/COLOR][/B] [COLOR yellow](Nota: 6.5)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8238ACD5B7340756716E3AB9A328F967B6FDD91F</link>
+<thumbnail>https://media.themoviedb.org/t/p/w440_and_h660_face/4LCpqQxa95g9VniypAuGC6jbHaB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/585hAEHBMNqyCt3pswF5MjImBrR.jpg</fanart>
+<info>
+[COLOR yellow]Título Original:[/COLOR] Dalia y el Libro Rojo  
+[COLOR yellow]Dirigido por:[/COLOR] David Bisbano  
+[COLOR yellow]Ano:[/COLOR] 2024  
+[COLOR yellow]Duração:[/COLOR] 1h 46m  
+[COLOR yellow]Nota:[/COLOR] 6.5  
+[COLOR yellow]Gênero:[/COLOR] Aventura, Animação, Família, Fantasia  
+[COLOR yellow]Áudio:[/COLOR] Português  
+[COLOR yellow]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL  
+[COLOR yellow]Sinopse:[/COLOR] Após a morte de seu pai escritor, a jovem Dalia é transportada para dentro do livro inacabado dele. Lá, ela encontra personagens que disputam o papel de protagonista e, junto com seu bode de pelúcia, precisa encontrar coragem para terminar a história e descobrir se deseja ser escritora.  
+</info>
 </item>
 
 <item>
-    <title>[B][COLOR white]Moana 2[/COLOR][/B] [COLOR yellow]Nota: 6.2[/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04251BEC1182AAE17D885B85C6FA862F53286D71</link>
-    <thumbnail>https://media.themoviedb.org/t/p/w188_and_h282_bestv2/A1NUWVjoKzWzOdGE01NHquyubkx.jpg</thumbnail>
-    <fanart>https://media.themoviedb.org/t/p/w500_and_h282_face/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg</fanart>
-    <info>
+<title>[B][COLOR white]Moana 2[/COLOR][/B] [COLOR yellow](Nota: 6.2)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04251BEC1182AAE17D885B85C6FA862F53286D71</link>
+<thumbnail>https://image.tmdb.org/t/p/original/A1NUWVjoKzWzOdGE01NHquyubkx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tElnmtQ6yz1PjN1kePNl8yMSb59.jpg</fanart>
+<info>
 [COLOR yellow]Título Original:[/COLOR] Moana 2
 [COLOR yellow]Dirigido por:[/COLOR] David G. Derrick Jr., Jason Hand, Dana Ledoux Miller
 [COLOR yellow]Ano:[/COLOR] 2024
@@ -35,16 +35,15 @@
 [COLOR yellow]Áudio:[/COLOR] Português
 [COLOR yellow]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL
 [COLOR yellow]Sinopse:[/COLOR] Após receber um chamado inesperado de seus ancestrais navegantes, Moana embarca ao lado de Maui e uma nova tripulação pelos mares distantes da Oceania em uma aventura única.
-    </info>
+</info>
 </item>
 
-
 <item>
-  <title>[B][COLOR white]Plankton: O Filme [COLOR yellow]Nota: 6.7[/COLOR][/COLOR][/B]</title>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28e5a0ec8b86322e1895d1cd090f6f60bfb09add</link>
-  <thumbnail>https://media.themoviedb.org/t/p/w500_and_h282_face/lsgT602GYV8ts97sKH1gWFtQs1k.jpg</thumbnail>
-  <fanart>https://media.themoviedb.org/t/p/w188_and_h282_bestv2/xODFawcWmxx2vn7rCw3KrdZmtmy.jpg</fanart>
-  <info>
+<title>[B][COLOR white]Plankton: O Filme[/COLOR][/B] [COLOR yellow](Nota: 6.7)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28e5a0ec8b86322e1895d1cd090f6f60bfb09add</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xODFawcWmxx2vn7rCw3KrdZmtmy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lsgT602GYV8ts97sKH1gWFtQs1k.jpg</fanart>
+<info>
 [COLOR yellow]Título Original:[/COLOR] Plankton: The Movie
 [COLOR yellow]Dirigido por:[/COLOR] Dave Needham
 [COLOR yellow]Ano:[/COLOR] 2025
@@ -54,10 +53,97 @@
 [COLOR yellow]Áudio:[/COLOR] DUAL Áudio
 [COLOR yellow]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL
 [COLOR yellow]Sinopse:[/COLOR] Quando Karen, a esposa-computadora de Plankton, decide dominar o mundo sem ele, Plankton deve impedir seus planos com a ajuda de Bob Esponja e seus amigos.
-  </info>
+</info>
 </item>
 
+<item>
+<title>[B][COLOR white]Barbie e Teresa: Receita de Amizade (Nota: 6.5)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7c09f2f37322ed01b0242ab61272d27211ccb39</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3qJO7F0Pwz67WhAIbHSs2U5Q0qs.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2P3tqwWDTdJVh3lVo8i2REBkrgy.jpg</fanart>
+<info>
+[COLOR yellow]Título Original:[/COLOR] Barbie and Teresa: Recipe for Friendship
+[COLOR yellow]Dirigido por:[/COLOR] Informação não disponível
+[COLOR yellow]Ano:[/COLOR] 2025
+[COLOR yellow]Duração:[/COLOR] 1h 30m
+[COLOR yellow]Nota:[/COLOR] 6.5
+[COLOR yellow]Gênero:[/COLOR] Animação, Aventura, Família
+[COLOR yellow]Áudio:[/COLOR] Português
+[COLOR yellow]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL
+[COLOR yellow]Sinopse:[/COLOR] Barbie e suas amigas embarcam em uma aventura culinária em Nova York para ajudar no lançamento do restaurante de Teresa, explorando suas raízes culturais e fortalecendo a amizade entre elas.
+</info>
+</item>
 
+<item>
+<title>[B][COLOR white]Mufasa: O Rei Leão[/COLOR][/B] [COLOR yellow](Nota: 4.2)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17BD74600F6687A2C997AB8BE0E180F8207EB3B1</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iMVuv6Gz5fj7vZ51IjRF3AiW87y.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg</fanart>
+<info>
+[COLOR yellow]Título Original:[/COLOR] Mufasa: The Lion King
+[COLOR yellow]Dirigido por:[/COLOR] Barry Jenkins
+[COLOR yellow]Ano:[/COLOR] 2024
+[COLOR yellow]Duração:[/COLOR] 1h 40m
+[COLOR yellow]Nota:[/COLOR] 4.2
+[COLOR yellow]Gênero:[/COLOR] Animação, Aventura, Drama
+[COLOR yellow]Áudio:[/COLOR] Português
+[COLOR yellow]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL
+[COLOR yellow]Sinopse:[/COLOR] Mufasa, o leão que um dia viraria rei, revê sua jornada de vida e a luta para se tornar o líder que todos conhecem.
+</info>
+</item>
 
+<item>
+<title>[B][COLOR white]Maximiliano Kolbe e Eu[/COLOR][/B] [COLOR yellow](Nota: 5.6)</COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb41e4dd660bb1c52e3ae1991f204ef7eaf8b333</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mdhZDcTLhhnmPHvDvM5PRdnGzyu.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/em2NrrAltls4QVsMeVHcejbQfXf.jpg</fanart>
+<info>
+[COLOR yellow]Título Original:[/COLOR] Max and Me
+[COLOR yellow]Dirigido por:[/COLOR] Donovan Cook
+[COLOR yellow]Ano:[/COLOR] 2023
+[COLOR yellow]Duração:[/COLOR] 2h 4m
+[COLOR yellow]Nota IMDb:[/COLOR] 5.6/10
+[COLOR yellow]Gênero:[/COLOR] Animação, Histórico
+[COLOR yellow]Áudio:[/COLOR] Inglês e Espanhol
+[COLOR yellow]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL
+[COLOR yellow]Sinopse:[/COLOR] Gunter, um velho rabugento, é forçado a interagir com um rapaz rebelde, D.J., ensinando-lhe sobre a vida fascinante de Maximiliano Kolbe, sacerdote polonês que desafiou os nazistas em todas as formas possíveis.
+</info>
+</item>
+
+<item>
+<title>[B][COLOR white]The Witcher: Sereias das Profundezas[/COLOR][/B] [COLOR yellow](Nota: 3.2/5)</COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76c749ea86f4a81a1998a6d36d9d1f420c1389ee</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ob2oIUL1gV4pNg7s9oGjNBSI2iF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1YL8ksfwm3p2Tgt1yaNVYYOvOKC.jpg</fanart>
+<info>
+[COLOR yellow]Título Original:[/COLOR] The Witcher: Sirens of the Deep
+[COLOR yellow]Dirigido por:[/COLOR] Kang Hei Chul
+[COLOR yellow]Ano:[/COLOR] 2025
+[COLOR yellow]Duração:[/COLOR] 1h 30m
+[COLOR yellow]Nota IMDb:[/COLOR] 3.2/5
+[COLOR yellow]Gênero:[/COLOR] Ação, Aventura, Animação, Fantasia
+[COLOR yellow]Áudio:[/COLOR] Inglês
+[COLOR yellow]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL
+[COLOR yellow]Sinopse:[/COLOR] Geralt de Rivia é contratado para investigar ataques a vilas costeiras, revelando um antigo conflito entre humanos e sereias que ameaça desencadear uma guerra entre os reinos.
+</info>
+</item>
+
+<item>
+<title>[B][COLOR white]Peça por Peça: Uma História de Pharrell Williams[/COLOR][/B] [COLOR yellow](Nota: 2.5/5)</COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6a2cd861b2360f0e9481b7925bdb48f26184109</link>
+<thumbnail>https://image.tmdb.org/t/p/original/qVyWW9HhYXui6SjF4cTDUPDYCIz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oqWTbBixgF8XwqzGeFWMzkNwqAw.jpg</fanart>
+<info>
+[COLOR yellow]Título Original:[/COLOR] Piece by Piece
+[COLOR yellow]Dirigido por:[/COLOR] Morgan Neville
+[COLOR yellow]Ano:[/COLOR] 2024
+[COLOR yellow]Duração:[/COLOR] 1h 34m
+[COLOR yellow]Nota IMDb:[/COLOR] 3.1/5
+[COLOR yellow]Gênero:[/COLOR] Animação, Biografia, Musical
+[COLOR yellow]Áudio:[/COLOR] Português / Inglês
+[COLOR yellow]Qualidade do Vídeo:[/COLOR] 1080p WEB-DL
+[COLOR yellow]Sinopse:[/COLOR] Uma jornada vibrante pela vida do ícone cultural Pharrell Williams, contada através das lentes de animação LEGO.
+</info>
+</item>
 
 </items>
