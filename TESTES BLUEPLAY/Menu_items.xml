@@ -1,7 +1,6 @@
 <channel>
   <name>Filmes Online</name>
  <externallink>https://seuservidor.com/listas/filmes.xml</externallink>
-
 <externallink>https://seuservidor.com/listas/filmes.xml</externallink>
  <thumbnail>https://example.com/imagens/filmes.jpg</thumbnail>
   <fanart>https://example.com/imagens/fanart.jpg</fanart>
