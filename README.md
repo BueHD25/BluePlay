@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BluePlay Pedidos de Filmes e Séries</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #121212;
+      color: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .form-container {
+      background-color: #333;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+    }
+    input, button {
+      margin: 10px 0;
+      padding: 10px;
+      width: 100%;
+      border-radius: 4px;
+      border: none;
+    }
+    button {
+      background-color: #f76c20;
+      color: white;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #f54700;
+    }
+  </style>
+</head>
+<body>
+
+<div class="form-container">
+  <h2>Pedido de Filme ou Série</h2>
+  <form id="pedidoForm">
+    <label for="nome">Nome de quem está pedindo:</label>
+    <input type="text" id="nome" required>
+
+    <label for="filme">Nome do filme ou série:</label>
+    <input type="text" id="filme" required>
+
+    <button type="submit">Enviar Pedido</button>
+  </form>
+</div>
+
+<!-- Script do Firebase -->
+<script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-database.js"></script>
+<script type="module">
+  // Importando as funções necessárias do Firebase SDK
+  import { initializeApp } from "firebase/app";
+  import { getDatabase, ref, push } from "firebase/database";
+
+  // Configuração do Firebase
+  const firebaseConfig = {
+    apiKey: "AIzaSyAkmmFDwhkcY6Z4UJMYHPqHrTSPTfvop8s",
+    authDomain: "blueplayweb.firebaseapp.com",
+    databaseURL: "https://blueplayweb-default-rtdb.firebaseio.com",
+    projectId: "blueplayweb",
+    storageBucket: "blueplayweb.firebasestorage.app",
+    messagingSenderId: "1010274882829",
+    appId: "1:1010274882829:web:8188c8a0eb7b02d4d4cc44",
+    measurementId: "G-Q5SDTRY084"
+  };
+
+  // Inicializando o Firebase
+  const app = initializeApp(firebaseConfig);
+
+  // Inicializando o Realtime Database
+  const database = getDatabase(app);
+
+  // Selecionando o formulário e configurando o evento de envio
+  const form = document.getElementById('pedidoForm');
+
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+
+    // Coletando os dados do formulário
+    const nome = document.getElementById('nome').value;
+    const filme = document.getElementById('filme').value;
+
+    // Verificando se os campos estão preenchidos
+    if (nome && filme) {
+      // Criando referência para enviar os dados para o Firebase
+      const pedidoRef = ref(database, 'pedidos');
+      
+      // Enviando os dados para o Firebase
+      push(pedidoRef, {
+        nome: nome,
+        filme: filme,
+        timestamp: Date.now()
+      }).then(() => {
+        // Sucesso
+        alert('Pedido enviado com sucesso!');
+        form.reset();
+      }).catch((error) => {
+        // Erro
+        console.error('Erro ao enviar pedido: ', error);
+        alert('Erro ao enviar pedido. Tente novamente mais tarde.');
+      });
+    } else {
+      alert('Por favor, preencha todos os campos!');
+    }
+  });
+</script>
+
+</body>
+</html>
