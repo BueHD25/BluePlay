@@ -1,8 +1,24 @@
 <channel>
-  <name>Filmes Online</name>
- <externallink>https://seuservidor.com/listas/filmes.xml</externallink>
-<externallink>https://seuservidor.com/listas/filmes.xml</externallink>
- <thumbnail>https://example.com/imagens/filmes.jpg</thumbnail>
-  <fanart>https://example.com/imagens/fanart.jpg</fanart>
-<info></info>
+    <name>Ben 10: Omniverse</name>
+    <thumbnail>https://image.tmdb.org/t/p/w500/Re9I5tauOspaJxYCIqRqavKT4F.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/jm3VtQRbxLysEEYcUSwuj67LvXS.jpg</fanart>
+    <info>Depois de Gwen e Kevin foram embora, Ben está animado para se tornar um herói solo, mas o Vô Max tem outros planos. Ele escala um novo encanador, Rook, para ser o novo parceiro de Ben e ajudá-lo a explorar uma cidade subterrânea, a misteriosa Cidade de Baixo. Com um novo Omnitrix e 10 novos alienígenas, Ben terá que enfrentar novamente vilões do passado e também encarar uma nova ameaça: Khyber. Khyber é um caçador do espaço e está de olho em sua próxima caça: Ben. Ele porta o Nemetrix, um dispositivo criado pelo Dr. Psychobos por razões desconhecidas (talvez para tentar ser melhor que Azmuth, seu maior inimigo). Khyber tem um mascote que, com o Nemetrix, pode se transformar em 10 predadores que são capazes de derrotar os alienígenas de Ben, e será um desafio muito grande enfrentá-los. Além disso, o novo show trás de volta as aventuras do Ben de 11 anos, ainda com seus atos heroicos e com a ajuda de seu avô Max e sua prima Gwen. O jovem Ben descobre um novo alienígena, Feedback, que o irá ajudá-lo a enfrentar um novo vilão: Malware. Malware é um Mechamorpho Galvânico que sabe tudo sobre o Omnitrix e tem como objetivo destruir Azmuth. Ele é muito poderoso, e promete trazer muitos problemas para o herói.</info>
+    <genre>Ação e Aventura, Animação, Ficção Científica e Fantasia, Infantil</genre>
+    <items>
+      <item>
+        <title>Ben 10: Omniverse - 1ª Temporada</title>
+        <thumbnail>https://image.tmdb.org/t/p/w500/tK8iQKgBSTaEy8z2NO8GIuNIeWQ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/jm3VtQRbxLysEEYcUSwuj67LvXS.jpg</fanart>
+        <link>plugin://plugin.video.elementum/search?q="Quanto.mais.as.Coisas.Mudam,.Parte.1"$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]Quanto mais as Coisas Mudam, Parte 1[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/search?q="Quanto.mais.as.Coisas.Mudam,.Parte.2"$$lsname=[COLOR white]EPISÓDIO 2[/COLOR] - [COLOR yellow]Quanto mais as Coisas Mudam, Parte 2[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/search?q="Um.Choque.do.Passado"$$lsname=[COLOR white]EPISÓDIO 3[/COLOR] - [COLOR yellow]Um Choque do Passado[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/search?q="Problema.Heliocoidal"$$lsname=[COLOR white]EPISÓDIO 4[/COLOR] - [COLOR yellow]Problema Heliocoidal[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/search?q="Tenho.Uma.Proposta.Para.Você"$$lsname=[COLOR white]EPISÓDIO 5[/COLOR] - [COLOR yellow]Tenho Uma Proposta Para Você[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/search?q="Foram.Eles"$$lsname=[COLOR white]EPISÓDIO 6[/COLOR] - [COLOR yellow]Foram Eles[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/search?q="Adeus,.e.Obrigado.Pelos.Sorvetes"$$lsname=[COLOR white]EPISÓDIO 7[/COLOR] - [COLOR yellow]Adeus, e Obrigado Pelos Sorvetes[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/search?q="Beco.do.Calor"$$lsname=[COLOR white]EPISÓDIO 8[/COLOR] - [COLOR yellow]Beco do Calor[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/search?q="Predadores.e.Presas,.Parte.1"$$lsname=[COLOR white]EPISÓDIO 9[/COLOR] - [COLOR yellow]Predadores e Presas, Parte 1[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/search?q="Predadores.e.Presas,.Parte.2"$$lsname=[COLOR white]EPISÓDIO 10[/COLOR] - [COLOR yellow]Predadores e Presas, Parte 2[/COLOR]</link>
+      </item>
+    </items>
 </channel>
