@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+    
 <channel>
     <name>Ben 10: Omniverse</name>
     <thumbnail>https://image.tmdb.org/t/p/w500/Re9I5tauOspaJxYCIqRqavKT4F.jpg</thumbnail>
@@ -22,3 +26,4 @@
       </item>
     </items>
 </channel>
+</channels>
