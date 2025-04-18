@@ -38,6 +38,7 @@
         <thumbnail>https://image.tmdb.org/t/p/w500/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/original/hrsRczdsAHBLTDzlIqt82bxY0Tt.jpg</fanart>
         <link>plugin://plugin.video.elementum/search?q="Demolidor:.Renascido.S01"$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]Meia Hora do Céu[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/search?q="Demolidor.Renascido.S01E02"$$lsname=[COLOR white]EPISÓDIO 5[/COLOR] - [COLOR yellow]Tenho Uma Proposta Para Você[/COLOR]</link>
         <link>plugin://plugin.video.elementum/search?q="Demolidor:.Renascido.S01"$$lsname=[COLOR white]EPISÓDIO 2[/COLOR] - [COLOR yellow]Ótica[/COLOR]</link>
       </item>
     </items>
