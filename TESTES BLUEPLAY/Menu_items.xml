@@ -59,5 +59,21 @@
       </item>
     </items>
 </channel>
+
+    <channel>
+    <name>Ladrões de Drogas</name>
+    <thumbnail>https://image.tmdb.org/t/p/w500/lQuT7R5MTeNHKm7jeyihABMS9Pe.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/qbUeqIQAn1cy01OuSctGmatVJCC.jpg</fanart>
+    <info>Dois amigos de longa data da Filadélfia se disfarçam de policiais para roubar traficantes. Um esquema perfeito até que abordam o lugar errado e se tornam alvos de uma organização do narcotráfico.</info>
+    <genre>Crime, Drama</genre>
+    <items>
+      <item>
+        <title>Ladrões de Drogas - 1ª Temporada</title>
+        <thumbnail>https://image.tmdb.org/t/p/w500/lQuT7R5MTeNHKm7jeyihABMS9Pe.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/qbUeqIQAn1cy01OuSctGmatVJCC.jpg</fanart>
+        <link>plugin://plugin.video.elementum/search?q="Ladrões.de.Drogas.S01"</link>
+      </item>
+    </items>
+</channel>
     
 </channels>
