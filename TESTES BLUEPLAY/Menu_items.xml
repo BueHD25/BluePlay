@@ -76,6 +76,54 @@
 
 </info>
 </item>
+
+<item>
+    <title>Buscar Attack on Titan no Elementum</title>
+    <link>plugin://plugin.video.elementum/search?q=attack+on+titan</link>
+    <thumbnail>https://i.imgur.com/5YQe4DN.jpeg</thumbnail>
+</item>
+
+<item>
+    <title>Buscar One Piece no Elementum</title>
+    <link>plugin://plugin.video.elementum/search?q=one+piece</link>
+    <thumbnail>https://i.imgur.com/RuSPUOM.jpeg</thumbnail>
+</item>
+
+<item>
+    <title>Reproduzir Big Buck Bunny (Magnet Teste)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:687187b1d6c07b6637a76bc9c86c3da863c9fddd&dn=Big+Buck+Bunny+%5B2008%5D+720p+HD</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Big.Buck.Bunny.-.Opening.Screen.png/320px-Big.Buck.Bunny.-.Opening.Screen.png</thumbnail>
+</item>
+
+<item>
+    <title>Filmes Populares</title>
+    <link>plugin://plugin.video.elementum/movies/popular/</link>
+    <thumbnail>https://i.imgur.com/JYjS4AO.png</thumbnail>
+</item>
+
+<item>
+    <title>Séries Mais Votadas</title>
+    <link>plugin://plugin.video.elementum/tv/top_rated/</link>
+    <thumbnail>https://i.imgur.com/dj6RkjH.png</thumbnail>
+</item>
+
+<item>
+    <title>Downloads do Elementum</title>
+    <link>plugin://plugin.video.elementum/downloads/</link>
+    <thumbnail>https://i.imgur.com/ETZk9eL.png</thumbnail>
+</item>
+
+<item>
+    <title>Configurações do Elementum</title>
+    <link>plugin://plugin.video.elementum/settings/</link>
+    <thumbnail>https://i.imgur.com/JYjS4AO.png</thumbnail>
+</item>
+
+<item>
+    <title>Limpar Cache do Elementum</title>
+    <link>plugin://plugin.video.elementum/clear_cache/</link>
+    <thumbnail>https://i.imgur.com/JYjS4AO.png</thumbnail>
+</item>
     </items>
 </channel>
 
