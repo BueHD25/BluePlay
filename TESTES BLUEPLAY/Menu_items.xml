@@ -23,6 +23,14 @@
         <link>plugin://plugin.video.elementum/search?q="Demolidor.Renascido.S01E09"$$lsname=[COLOR white]EPISÓDIO 9[/COLOR] - [COLOR yellow]Predadores e Presas, Parte 1[/COLOR]</link>
         <link>plugin://plugin.video.elementum/search?q="Demolidor.Renascido.S01"$$lsname=[COLOR white]EPISÓDIO 10 Funcionou viva!?![/COLOR] - [COLOR yellow]Predadores e Presas, Parte 2[/COLOR]</link>
       </item>
+
+        <item>
+  <title>[COLOR white][B]HQs Marvel[/B][/COLOR]</title>
+  <link>plugin://plugin.image.k-viewer/specific_keyword?hq=marvel&page=1</link>
+  <thumbnail>https://url_da_thumb.jpg</thumbnail>
+  <fanart>https://url_da_fanart.jpg</fanart>
+  <info>[COLOR yellow]Leia HQs da Marvel direto no Kodi![/COLOR]</info>
+</item>
         <item>
 <title>[COLOR silver][B]Sonic 3: O Filme[/B][/COLOR][COLOR yellow] FULL HD[/COLOR]</title>
 <link>plugin://plugin.video.elementum/search?q="Sonic.3:.O.Filme"</link>
