@@ -26,7 +26,7 @@
 
         <item>
   <title>[COLOR white][B]HQs Marvel[/B][/COLOR]</title>
-  <link>plugin://plugin.program.webviewer/https://drive.google.com/file/d/12A3o1olu6NPRcOTHTOSQ6a6bSV8gCqS3/view?usp=drivesdk</link>
+  <link>plugin://plugin.program.webviewer/?url=https://drive.google.com/uc?id=12A3o1olu6NPRcOTHTOSQ6a6bSV8gCqS3</link>
   <thumbnail>https://url_da_thumb.jpg</thumbnail>
   <fanart>https://url_da_fanart.jpg</fanart>
   <info>[COLOR yellow]Leia HQs da Marvel direto no Kodi![/COLOR]</info>
