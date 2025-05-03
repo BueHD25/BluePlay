@@ -8,6 +8,15 @@
     <info>Depois de Gwen e Kevin foram embora, Ben está animado para se tornar um herói solo, mas o Vô Max tem outros planos. Ele escala um novo encanador, Rook, para ser o novo parceiro de Ben e ajudá-lo a explorar uma cidade subterrânea, a misteriosa Cidade de Baixo. Com um novo Omnitrix e 10 novos alienígenas, Ben terá que enfrentar novamente vilões do passado e também encarar uma nova ameaça: Khyber. Khyber é um caçador do espaço e está de olho em sua próxima caça: Ben. Ele porta o Nemetrix, um dispositivo criado pelo Dr. Psychobos por razões desconhecidas (talvez para tentar ser melhor que Azmuth, seu maior inimigo). Khyber tem um mascote que, com o Nemetrix, pode se transformar em 10 predadores que são capazes de derrotar os alienígenas de Ben, e será um desafio muito grande enfrentá-los. Além disso, o novo show trás de volta as aventuras do Ben de 11 anos, ainda com seus atos heroicos e com a ajuda de seu avô Max e sua prima Gwen. O jovem Ben descobre um novo alienígena, Feedback, que o irá ajudá-lo a enfrentar um novo vilão: Malware. Malware é um Mechamorpho Galvânico que sabe tudo sobre o Omnitrix e tem como objetivo destruir Azmuth. Ele é muito poderoso, e promete trazer muitos problemas para o herói.</info>
     <genre>Ação e Aventura, Animação, Ficção Científica e Fantasia, Infantil</genre>
     <items>
+     <item>
+         
+<title>Buscar Filmes</title>
+<link>plugin://plugin.video.BluePlay/?action=search&amp;from=https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/ARES%20%C3%81REA%20DE%20FILMES%20E%20S%C3%89RIES/FILMES/ACAO.XML</link>
+<thumbnail>https://meusite.com/busca.jpg</thumbnail>
+<fanart>httidk</fanart>       
+<info>Buscar no catálogo de filmes</info>
+</item>
+   
       <item>
         <title>Ben 10: Omniverse - 1ª Temporada</title>
         <thumbnail>https://image.tmdb.org/t/p/w500/tK8iQKgBSTaEy8z2NO8GIuNIeWQ.jpg</thumbnail>
