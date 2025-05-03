@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
 <items>
+  
 <item>
 <title>Buscar Filmes</title>
 <link>plugin://plugin.video.BluePlay/?action=search&amp;from=https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/ARES%20%C3%81REA%20DE%20FILMES%20E%20S%C3%89RIES/FILMES/ACAO.XML</link>
@@ -9,4 +9,5 @@
 <fanart>httidk</fanart>       
 <info>Buscar no catálogo de filmes</info>
 </item>
+  
 </items>
