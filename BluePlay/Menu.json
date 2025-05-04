@@ -1,0 +1,74 @@
+{
+  "channels": [
+    {
+      "name": "[B][COLOR aquamarine]:::[/COLOR][COLOR white]BLUEPLAY[/COLOR][COLOR aquamarine]:::[/COLOR][/B]",
+      "thumbnail": "https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/LOGO.png",
+      "externallink": "https://github.com/BluePlay8486/BluePlay/raw/refs/heads/main/ARES%20AREA%20DE%20FILMES%20E%20ETC/ARES%20S%C3%89RIES/&",
+      "fanart": "https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg",
+      "info": "Bem-vindo ao BluePlay! Desfrute de uma experiência incrível com uma vasta seleção de filmes, séries, animes, desenhos e muito mais..."
+    },
+    {
+      "name": "[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]",
+      "thumbnail": "https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/CANAIS%20AO%20VIVO.png",
+      "fanart": "https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg",
+      "info": "Assista a uma seleção de canais ao vivo organizados por categorias...",
+      "externallink": "https://github.com/BluePlay8486/BluePlay/raw/refs/heads/main/BluePlay/TV%20AO%20VIVO/Menu_TV.xml"
+    },
+    {
+      "name": "[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]",
+      "thumbnail": "https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png",
+      "fanart": "https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg",
+      "info": "Explore um vasto catálogo de filmes com os melhores lançamentos...",
+      "externallink": "https://github.com/BluePlay8486/BluePlay/raw/refs/heads/main/BluePlay/FILMES/Menu_Filmes1.xml"
+    },
+    {
+      "name": "[B][COLOR lime]●[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]",
+      "thumbnail": "https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png",
+      "fanart": "https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg",
+      "info": "Explore uma seleção de séries envolventes...",
+      "externallink": "https://github.com/BluePlay8486/BluePlay/raw/refs/heads/main/BluePlay/S%C3%89RIES/MENUS/Menu_Series2.xml"
+    },
+    {
+      "name": "[B][COLOR lime]●[/COLOR] [COLOR white]RÁDIO[/COLOR][/B]",
+      "thumbnail": "https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/R%C3%81DIO.png",
+      "fanart": "https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg",
+      "info": "Sintonize em uma variedade de estações de rádio...",
+      "externallink": "https://github.com/BluePlay8486/BluePlay/raw/refs/heads/main/BluePlay/R%C3%81DIO/Menu_Radio.xml"
+    },
+    {
+      "name": "[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS[/COLOR][/B]",
+      "thumbnail": "https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/DESENHOS.png",
+      "fanart": "https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg",
+      "info": "Entre no universo dos desenhos animados...",
+      "externallink": "https://github.com/BluePlay8486/BluePlay/raw/refs/heads/main/BluePlay/DESENHOS/DESENHOS.txt"
+    },
+    {
+      "name": "[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]",
+      "thumbnail": "https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/ANIMES.png",
+      "fanart": "https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg",
+      "info": "Explore um mundo de animes com diversas opções...",
+      "externallink": "https://github.com/BluePlay8486/BluePlay/raw/refs/heads/main/BluePlay/ANIMES/Menu_Animes.xml"
+    },
+    {
+      "name": "[B][COLOR lime]●[/COLOR] [COLOR white]DORAMAS[/COLOR][/B]",
+      "thumbnail": "https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/DORAMAS%20.png",
+      "fanart": "https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg",
+      "info": "Mergulhe no universo dos dramas asiáticos...",
+      "externallink": "https://github.com/AnimeSoul8585/Reposit-rio-AnimeSoul/raw/refs/heads/main/Pesquisar.xml"
+    },
+    {
+      "name": "[B][COLOR lime]●[/COLOR] [COLOR white]NOVELAS[/COLOR][/B]",
+      "thumbnail": "https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/NOVELAS.png",
+      "fanart": "https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg",
+      "info": "Reviva as tramas emocionantes das novelas...",
+      "externallink": "https://github.com/BluePlay8486/BluePlay/raw/refs/heads/main/TESTES%20BLUEPLAY/Menu_items.xml"
+    },
+    {
+      "name": "[B][COLOR yellow]●[/COLOR] [COLOR white]DOAÇÃO[/COLOR][/B]",
+      "thumbnail": "https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/DOA%C3%87%C3%83O.png",
+      "fanart": "https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg",
+      "info": "Ajude a manter o BluePlay sempre atualizado e funcionando...",
+      "externallink": "https://github.com/BluePlay8486/BluePlay/raw/refs/heads/main/TESTES%20BLUEPLAY/Teste_novo.xml"
+    }
+  ]
+}
